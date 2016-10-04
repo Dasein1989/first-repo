@@ -1,2 +1,2 @@
 # first-repo
-Updated with Tortoise Git
+Updated with Tortoise Gitt
